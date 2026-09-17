@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mohamadrezatavasoli2141-creator/mohamadrezatavasoli2141-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ELEMENTCORE
+### Intelligence for the real world.
+**AI Vision · Smart Parking · Voice Communication**
 
-Here are some ideas to get you started:
+[Explore ElementCore](https://elementcore.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## Building connected, intelligent systems
+
+ElementCore brings computer vision, automation and communication into practical tools for everyday operations. Our work connects software with the physical world — from monitoring spaces and managing vehicle access to connecting customers with the right team.
+
+### Areas of focus
+
+| Area | What we are building |
+| :--- | :--- |
+| **Shahin Vision · چشم شاهین** | AI-assisted monitoring and computer vision for parking facilities, factories and other operational spaces. |
+| **Smart Parking** | Vehicle and license-plate detection, entry and exit management, and gate-control integration. |
+| **Voice & Contact Center** | Browser-based voice calls, department routing, queues, operator tools and intelligent assistance. |
+| **Connected Operations** | Management dashboards and integrations that bring devices, events and workflows together. |
+
+### Our approach
+
+- **Practical intelligence** — turn observations into useful actions.
+- **Connected experiences** — bring monitoring, access and communication together.
+- **Clear interfaces** — make complex operations easier to understand and manage.
+- **Room to grow** — develop an ecosystem across different industries.
+
+---
+
+<div dir="rtl">
+
+<h2>المنت‌کور | هوشمندی برای دنیای واقعی</h2>
+
+<p>در <strong>ElementCore</strong> روی ساخت سامانه‌هایی کار می‌کنیم که هوش مصنوعی را به ابزارهای کاربردی برای کسب‌وکارها تبدیل می‌کنند؛ از نظارت هوشمند و مدیریت پارکینگ تا ارتباط صوتی و مرکز تماس.</p>
+
+<p><strong>چشم شاهین — Shahin Vision</strong> بخش نظارت و بینایی ماشین این مسیر است: پیوند دوربین‌ها، تجهیزات و نرم‌افزار برای درک بهتر رویدادها و مدیریت هوشمندتر محیط.</p>
+
+<p>زمینه‌های توسعه ما شامل <strong>بینایی ماشین، کنترل تردد، اتوماسیون، داشبوردهای مدیریتی و ارتباطات صوتی</strong> است.</p>
+
+</div>
+
+---
+
+<div align="center">
+
+**See. Understand. Act. Connect.**
+
+[elementcore.app](https://elementcore.app)
+
+</div>
